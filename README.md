@@ -40,6 +40,14 @@ Here are some screenshots demonstrating the use of the API:
 
 ## Video Demo
 
-For video demonstration of project, visit the Google Drive link:
+### Long
 
-- [Google Drive URL](https://drive.google.com/drive/folders/1ck0z_0SuAU13n52Xv1tgKGcqo_CS8cw4?usp=sharing)
+[Link to long demo](https://youtu.be/UpaOQtwkQFM)
+
+### Short
+
+[Link to short demo](https://youtu.be/Cc_tvXht6jg)
+
+<!-- For video demonstration of project, visit the Google Drive link:
+
+- [Google Drive URL](https://drive.google.com/drive/folders/1ck0z_0SuAU13n52Xv1tgKGcqo_CS8cw4?usp=sharing) -->
